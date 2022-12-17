@@ -12,7 +12,7 @@
 int main(void)
 {
 	long int max, lower, test;
-	
+
 	max = 612852475143;
 	lower = 2;
 	test = 2;
