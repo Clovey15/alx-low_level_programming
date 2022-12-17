@@ -25,7 +25,7 @@ int main(void)
 			test = lower + 1;
 		}
 		else
-			test++
+			test++;
 	}
 	printf("%ld\n", max);
 	return (0);
